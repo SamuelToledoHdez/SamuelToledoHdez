@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1 align="center">Hoooola!! <img src="https://i.imgur.com/csn2hC2.gif" width="40" /></h1>
-   https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif
+   ![https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif]
 </div>
 
 
