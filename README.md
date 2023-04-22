@@ -1,6 +1,13 @@
-Hoooola!! <img src="https://i.imgur.com/csn2hC2.gif" width="40" />
+<div id="header" align="center">
+  <h1 align="center">Hoooola!!</h1> 
+   <img src="https://i.imgur.com/csn2hC2.gif" width="40" />
+   <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360">
+</div>
 
-[<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360">](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
+
+
+
 
 
 ## About Me
