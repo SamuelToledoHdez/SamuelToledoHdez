@@ -13,8 +13,6 @@
 
 - I'm a software developer with a focus on front-end development using HTML, CSS, React, and JavaScript.
 - Currently studying Computer Engineering at Universidad de La Laguna 🎓
-- Interested in video games and software development 🕹️
-- Pronouns: He/him 😇
 
 ## Languages & Tools
 
