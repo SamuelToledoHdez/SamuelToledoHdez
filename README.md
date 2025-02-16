@@ -1,24 +1,86 @@
-<div id="header" align="center">
-  <h1 align="center">Hoooola!! <img src="https://i.imgur.com/csn2hC2.gif" width="40" /></h1>
-  <img src= "https://media.giphy.com/media/fg9WTiKqZ0ZM6o244o/giphy.gif">
+<h1 align="left">Hey there, I'm SamuelToledoHdez! 👋</h1>
+
+###
+
+<h4 align="left">Welcome to my GitHub corner, where code meets caffeine and every commit is a little adventure. 😊</h4>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuelToledoHdez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelToledoHdez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
 
+<h3 align="left">About Me:</h3>
 
+###
 
+<p align="left">I'm a software developer who turns coffee into code (and occasionally fixes a bug or two) ☕💻. I focus on front-end development using HTML, CSS, React, and JavaScript. I'm also a Computer Engineering student at Universidad de La Laguna, juggling code, classes, and the occasional semicolon showdown.</p>
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
 
-## About Me
+###
 
-- I'm a software developer with a focus on front-end development using HTML, CSS, React, and JavaScript.
-- Currently studying Computer Engineering at Universidad de La Laguna 🎓
+<h3 align="left">GitHub Adventures</h3>
 
-## Languages & Tools
+###
 
-<code><img width="40" src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" alt="C++" /></code>
-<code><img width="40" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" alt="HTML5" /></code>
-<code><img width="40" src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" alt="CSS3" /></code>
-<code><img width="40" src="https://cdn.iconscout.com/icon/free/png-256/javascript-20-555998.png" alt="JavaScript" /></code>
-<code><img width="40" src="https://cdn.iconscout.com/icon/free/png-256/react-4-1175110.png" alt="React" /></code>
+<p align="left">My commit history is a rollercoaster 🎢 of late-night coding sessions, bursts of creativity, and plenty of coffee-fueled debugging 😅. Every repository has its own quirky story—kind of like a tech soap opera.</p>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/SamuelToledoHdez/SamuelToledoHdez/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h3 align="left">Let's Connect 🤝</h3>
+
+###
+
+<p align="left">I'm always up for a chat about tech trends, funny memes, or even the best pizza toppings. Feel free to connect with me on LinkedIn or drop a message right here on GitHub.<br><br>Thanks for stopping by, and happy coding!<br><br>"I code, therefore I commit." — Samuel (Probably)</p>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/samtoledoh_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:stolh1412@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/samuel-toledo-hdez/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/SamuelToledoHdez/count.svg?"  />
+</div>
+
+###
